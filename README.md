@@ -1,2 +1,2 @@
 # Go-Movies-Crud
-Crud api with golang
+CRUD api with golang
